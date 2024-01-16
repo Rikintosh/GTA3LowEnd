@@ -1,0 +1,15 @@
+Unarmed        MELEE       2.8	 750  300  1000 8   -1.0 0.5   -1.0   -1.0	0.1	 0.65	0.2		FIGHTppunch        	KICK_floor    	0  99 12 12  -1 0
+BaseballBat    MELEE       1.5   750  300  1000 21  -1.0 0.8   -1.0   -1.0	0.1  0.8	0.30	WEAPON_bat_h       	WEAPON_bat_v  	5  20 14 11 172 0
+Colt45         INSTANT_HIT 30.0  250  350  12   25  -1.0 -1.0  -1.0   -1.0	0.30 0.0	0.09	WEAPON_hgun_body   	RBLOCK_Cshoot  	8  15 9  9  173 192
+Uzi            INSTANT_HIT 30.0  250  500  25   20  -1.0 -1.0  -1.0   -1.0	0.30 -0.05	0.11	WEAPON_hgun_body   	null		 	8  11 9  9  178 192
+Shotgun        INSTANT_HIT 15.0  250  750  1000 100 -1.0 -1.0  -1.0   -1.0	1.02 -0.10	0.13	WEAPON_pump        	null          	7  43 12 0  176 64
+Grenade        PROJECTILE  30.0  100  1    1    75  0.25 -1.0  800.0  1.0	0.0	 0.0	0.0		WEAPON_start_throw  WEAPON_throw   	0  99 99 10 170 1060
+Molotov        PROJECTILE  25.0  100  1    1    75  0.25 -1.0  2000.0 5.0	0.0	 0.0	0.0		WEAPON_start_throw  WEAPON_throw  	0  99 99 10 174 1060
+RocketLauncher PROJECTILE  15.0  100  1200 1    75  2.0  -1.0  1000.0 1.0	0.42 0.0	0.05	WEAPON_sniper      	null          	0  99 14 0  175 804
+FlameThrower   AREA_EFFECT 5.1   100   100 500  25  0.65 0.075 1000.0 3.0	0.82 0.0	0.13	WEAPON_pump        	null         	6  7  7  0  181 30
+AK47           INSTANT_HIT 75.0  1    1000 30   19  -1.0 -1.0  -1.0   -1.0	0.63 -0.04	0.10	WEAPON_AK_body     	null          	12 14 12 0  171 64
+M16            INSTANT_HIT 75.0  1    1000 60   52  -1.0 -1.0  -1.0   -1.0	0.83 -0.06	0.14	WEAPON_AK_body	  	null          	12 13 12 0  180 64
+SniperRifle    INSTANT_HIT 100.0 500  1401 1    125 -1.0 -1.0  -1.0   -1.0	0.0	 0.66	0.05	WEAPON_sniper      	null          	0  10 3  0  177 256
+Detonator      PROJECTILE  25.0  100  1    1    0   2.0  -1.0  2000.0 5.0	0.0	 0.0	0.13	bomber	        	null          	0  10 3  0  182 36
+
+ENDWEAPONDATA

@@ -1,0 +1,32 @@
+male02,		male03,		fatmale01,	fatmale02,	female01,	female02,	female03,	fatfemale01		# default
+female01, 	worker1,	scum_man,	pimp,		male03,		fatmale02,	prostitute2,	male02			# redlight
+prostitute, 	prostitute2,	male02,		fatmale02,	scum_wom,	pimp,		criminal01,	male03			# redlight night
+li_man1,	li_man2, 	li_wom1,	li_wom2,	cas_man, 	cas_wom, 	male01,		female03		# little italy
+li_man1,	male03, 	prostitute2,	li_wom2,	criminal02, 	cas_man, 	scum_wom,	li_man2			# little italy night
+ct_man1,	ct_man2,	ct_wom1,	ct_wom2,	fatmale01,	fatfemale02,	male02, 	female02		# china town
+ct_man1,	ct_man2,	ct_wom1,	ct_wom2,	cas_man,	male03,	        criminal02,	fatfemale01		# china town night
+docker1,	docker2,	scum_man,	male01,		const1,		const2,		worker1,	worker2			# docks
+docker1,	docker2         criminal01,	fatmale02,	scum_wom,	worker1,	prostitute,	prostitute2		# docks night
+p_man1,		p_man2,		p_wom1,		p_wom2,		scum_man,	prostitute	female01,	criminal01		# projects	
+p_man1,		p_man2,		p_wom1,		p_wom2,		cas_man,	criminal02,	prostitute2,	prostitute		# projects night
+worker1,	worker2,	female01,	female02,	const1, 	const2,		male02,		fatmale01		# industrial
+worker1,	worker2,	female02,	male02,	        criminal01,	prostitute2,	scum_man,	scum_wom		# industrial night
+b_man1, 	b_man2,		b_man3,		b_wom1,		b_wom2,		b_wom3,		mod_man,	mod_wom			# south area
+b_man1, 	b_wom1,		scum_man,	scum_wom,	b_man2, 	criminal01,	p_man1,		p_man2			# south area night
+st_man,		st_wom,		fan_man1,	fan_man2,	fan_wom,	stud_man,	male02,	        female02		# stadium
+st_man,		st_wom,		fan_man1,	fan_man2,	scum_man,	male03,		b_man3,		criminal01		# stadium night
+hos_man,	hos_wom,	hos_man,	p_wom1	        male02,		fatmale02,	female03,	fatfemale02		# hospital	
+hos_man,	hos_wom,	hos_man,	b_wom1,	        male02,	        female01,	const2,		criminal02		# hospital night
+const1,		const2,		const1,		const2,		worker1,	worker2,	fatmale01,	male03			# construction site
+const1,		const2,		const1,		const2,		scum_man,	worker2,	criminal02,	scum_wom		# construction site night
+shopper1,	cas_wom,	shopper2,	shopper3,	b_wom1,	        b_man1,	        mod_wom,	mod_man			# shopping
+p_man1,		const1,		prostitute2,	scum_man,	scum_wom,	shopper2,	cas_man,	criminal01		# shopping night
+stud_man,	stud_wom,	stud_wom,	female03, 	male02,		fatmale01,	fatfemale02,	female02		# university
+stud_man,	stud_wom,	stud_man,	b_man1,	        scum_wom,	prostitute2,	fan_man1,	criminal02		# university night
+cas_man,	cas_wom,	cas_man,	cas_wom,	cas_man,	male02,		female01,	female02		# park
+cas_man,	cas_wom,	cas_man,	scum_man,	scum_wom,	prostitute,	male02,		criminal02		# park night
+male01,		male03,		fatmale01,	fatmale02,	female01,	female02,	female03,	fatfemale01		# airport
+male02,		male03,		fatmale01,	fatmale02,	mod_man,	female02,	female03,	fatfemale02		# airport night
+male02,		male01,		fatmale01,	fatmale02,	female01,	female02,	mod_wom,	mod_wom			# swanksville 
+male02,		male03,		fatmale01,	fatmale02,	female01,	mod_wom,	female03,	mod_wom			# swanksville night
+

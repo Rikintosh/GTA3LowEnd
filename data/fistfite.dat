@@ -1,0 +1,25 @@
+Null			0	0	0	0.0		N	null			0	0
+StdPunch		5	8	0	0.4		M	punchR			1	1
+Idle			0	0	0	0.0		N	FIGHTIDLE		0	0
+Shuffle_f		0	0	0	0.0		N	FIGHTsh_F		0	0
+Knee			7	10	0	0.4		L	FIGHTknee		2	0
+Headbutt		8	10	0	0.4		H	FIGHThead		3	0
+PunchJab		3	5	8	0.3		H	FIGHTLhook		1	0
+PunchHook		4	6	8	0.3		H	FIGHTpunch		2	1
+Kick			5	9	0	0.4		M	FIGHTkick		2	1
+LongKick		8	11	0	0.4		M	FIGHTlngkck		3	0
+RoundHouse		8	12	0	0.4		M	FIGHTrndhse		3	1
+BodyBlow		7	10	0	0.3 	L	FIGHTbodyblow	2	0
+GroundKick		8	11	0	0.4		G	KICK_floor		3	0
+HitFront		4	0	0	0.0		N	HIT_front		0	0
+HitBack			4	0	0	0.0		N	HIT_back		0	0
+HitRight		4	0	0	0.0		N	HIT_R			0	0
+HitLeft			4	0	0	0.0		N	HIT_L			0	0
+HitBody			4	0	0	0.0		N	HIT_bodyblow	0	0
+HitChest		4	0	0	0.0		N	HIT_chest		0	0
+HitHead			4	0	0	0.0		N	HIT_head		0	0
+HitBigStep		4	0	0	0.0		N	HIT_walk		0	0
+HitOnFloor		0	0	0	0.0		N	FLOOR_hit		0	0
+HitBehind		4	0	0	0.0		N	HIT_behind		0	0
+Idle2Norm		0	0	0	0.0		N	FIGHT2IDLE		0	0
+ENDWEAPONDATA
