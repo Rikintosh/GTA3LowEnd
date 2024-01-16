@@ -1,4 +1,4 @@
-# GTA3LowEnd
+# GTA3 Low End
 GTA 3 fixed to run better on hardware at the time of release
 
 At that time, the game received criticism for its high hardware requirements, and although nowadays it seems like meaningless nonsense, I have several reasons why I created this mod:
